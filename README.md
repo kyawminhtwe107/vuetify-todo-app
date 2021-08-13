@@ -1,4 +1,4 @@
-# vue-daily-tasks
+# vuetify-daily-tasks
 
 ## Project setup
 ```
